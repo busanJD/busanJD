@@ -1,1 +1,43 @@
-Joydeep Das 👋A second-year Master's student at the School of Physics, IISER Thiruvananthapuram.About MeI am currently pursuing my Master’s project on Spectro-polarimetry of Gamma Ray Bursts under the supervision of Dr. Shabnam Iyyani.My primary academic interests lie in Extragalactic Astronomy, with a specific focus on Active Galactic Nuclei (AGN) and multiwavelength studies of galaxy formation and evolution, with an emphasis on radio bands. I am passionate about contributing to the upcoming Square Kilometre Array (SKA) Project and am also committed to sharing my learning through citizen science outreach.🔭 My GoalsI am actively seeking a PhD position in Extragalactic Astronomy, Multiwavelength Astronomy, or Galaxy Formation and Evolution to further my research and contributions in these fields.🔬 ProjectsStar Formation Rate in Resolved Galaxy - NGC1427ALight Curve analysis & Background modelling of GRB110721ASpectral study of high-Z galaxies from JWST-NIRSpec dataGalaxies with Active black holes through Multiwavelength Data and Citizen Science🎨 HobbiesWhen I'm not studying the stars, I enjoy:Playing Badminton 🏸Painting 🎨Essay writing ✍️Meme-making (it definitely counts!) 😂📫 How to reach meYou can connect with me on:LinkedIn: YourLinkedInURLPersonal Website: YourPersonalWebsiteURL
+# Joydeep Das 👋
+
+A second-year Master's student at the School of Physics, IISER Thiruvananthapuram.
+
+### About Me
+
+I am currently pursuing my Master’s project on **Spectro-polarimetry of Gamma Ray Bursts** under the supervision of Dr. Shabnam Iyyani.
+
+My primary academic interests lie in **Extragalactic Astronomy**, with a specific focus on **Active Galactic Nuclei (AGN)** and **multiwavelength studies** of galaxy formation and evolution, with an emphasis on **radio bands**. I am passionate about contributing to the upcoming **Square Kilometre Array (SKA) Project** and am also committed to sharing my learning through citizen science outreach.
+
+### 🔭 My Goals
+
+I am actively seeking a PhD position in **Extragalactic Astronomy, Multiwavelength Astronomy, or Galaxy Formation and Evolution** to further my research and contributions in these fields.
+
+### 🔬 Projects
+
+* **Star Formation Rate in Resolved Galaxy** - NGC1427A
+
+* **Light Curve analysis & Background modelling** of GRB110721A
+
+* **Spectral study** of high-Z galaxies from JWST-NIRSpec data
+
+* **Galaxies with Active black holes** through Multiwavelength Data and Citizen Science
+
+### 🎨 Hobbies
+
+When I'm not studying the stars, I enjoy:
+
+* **Playing Badminton** 🏸
+
+* **Painting** 🎨
+
+* **Essay writing** ✍️
+
+* **Meme-making** (it definitely counts!) 😂
+
+### 📫 How to reach me
+
+You can connect with me on:
+
+* **LinkedIn:** [[LinkedIn URL](https://www.linkedin.com/in/djoy24/)]
+
+* **Facebook** [[Your Personal Website URL](https://www.facebook.com/joydeep.das.58118774/)]
