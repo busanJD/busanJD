@@ -1,6 +1,8 @@
-# Joydeep Das 👋
+# Joydeep Das 🍂
 
 A second-year Master's student at the School of Physics, IISER Thiruvananthapuram.
+
+e-Astronomer (trained Citizen-Scientist) at RAD@home India Astronomy Collaboratory.
 
 ### About Me
 
@@ -24,20 +26,10 @@ I am actively seeking a PhD position in **Extragalactic Astronomy, Multiwaveleng
 
 ### 🎨 Hobbies
 
-When I'm not studying the stars, I enjoy:
+When I'm not studying the stars and galaxies, I enjoy:
 
-* **Playing Badminton** 🏸
+**Playing Badminton** 🏸 | **Painting** 🎨 | **Essay writing** ✍️ | **Creating-Memes** (it definitely counts!) 😂
 
-* **Painting** 🎨
+### 📫 Connect with me
 
-* **Essay writing** ✍️
-
-* **Meme-making** (it definitely counts!) 😂
-
-### 📫 How to reach me
-
-You can connect with me on:
-
-* **LinkedIn:** [[LinkedIn URL](https://www.linkedin.com/in/djoy24/)]
-
-* **Facebook** [[Your Personal Website URL](https://www.facebook.com/joydeep.das.58118774/)]
+[LinkedIn](https://www.linkedin.com/in/djoy24/) | [Facebook](https://www.facebook.com/joydeep.das.58118774/)
