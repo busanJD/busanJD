@@ -16,6 +16,8 @@ I am actively seeking a PhD position in **Extragalactic Astronomy, Multiwaveleng
 
 ### 🔬 Projects
 
+* **Master's Project : ** Spectropolarimetry of GRB180427A
+ 
 * **Star Formation Rate in Resolved Galaxy** - NGC1427A
 
 * **Light Curve analysis & Background modelling** of GRB110721A
