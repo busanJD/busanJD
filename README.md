@@ -1,12 +1,12 @@
 # Joydeep Das 🍂
 
-A second-year Master's student at the School of Physics, IISER Thiruvananthapuram.
+Master's graduate from School of Physics, IISER Thiruvananthapuram.
 
 e-Astronomer (trained Citizen-Scientist) at RAD@home India Astronomy Collaboratory.
 
 ### About Me
 
-I am currently pursuing my Master’s project on **Spectro-polarimetry of Gamma Ray Bursts** under the supervision of Dr. Shabnam Iyyani.
+I am currently working towards a complete census of Extended Radio sources in Deep Fields using semi-automated methods.
 
 My primary academic interests lie in **Extragalactic Astronomy**, with a specific focus on **Active Galactic Nuclei (AGN)** and **multiwavelength studies** of galaxy formation and evolution, with an emphasis on **radio bands**. I am passionate about contributing to the upcoming **Square Kilometre Array (SKA) Project** and am also committed to sharing my learning through citizen science outreach.
 
